@@ -1,0 +1,10 @@
+*.o
+*.exe
+tilemap
+.DS_Store
+
+lib/*
+build/*.dll
+build/*.exe
+
+build/assets/venv
